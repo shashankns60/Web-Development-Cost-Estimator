@@ -15,7 +15,7 @@ A tool to help businesses and individuals estimate the cost of web development p
   - **CSS**: 2.3%
   - **HTML**: 2.1%
   
-- HTML, CSS, JavaScript (for frontend)
+- Tailwind, CSS, JavaScript (for frontend)
 - Node.js (for backend, if applicable)
 - Any additional libraries or frameworks used (e.g., React, Vue.js, Express)
 
@@ -38,6 +38,10 @@ A tool to help businesses and individuals estimate the cost of web development p
 4. Start the application:
    ```bash
    npm start
+   ```
+   or
+   ```bash
+   npm run dev
    ```
 
 ## Usage
@@ -66,8 +70,10 @@ A tool to help businesses and individuals estimate the cost of web development p
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
+
 ### Updates:
 - **Languages** section added to highlight the languages used in the project, along with the percentage distribution.
 - The rest of the `README.md` remains the same.
 
 Let me know if you'd like any more changes!
+
