@@ -1,4 +1,3 @@
-```markdown
 # Web Development Cost Estimator
 
 A tool to help businesses and individuals estimate the cost of web development projects. It factors in website type, number of pages, and selected services to provide an accurate cost estimate. Ideal for freelancers, agencies, and clients to understand pricing before starting development.
@@ -16,7 +15,7 @@ A tool to help businesses and individuals estimate the cost of web development p
   - **CSS**: 2.3%
   - **HTML**: 2.1%
   
-- Taillwind, CSS, JavaScript (for frontend)
+- HTML, CSS, JavaScript (for frontend)
 - Node.js (for backend, if applicable)
 - Any additional libraries or frameworks used (e.g., React, Vue.js, Express)
 
@@ -25,7 +24,6 @@ A tool to help businesses and individuals estimate the cost of web development p
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/web-development-cost-estimator.git
-   ```
 
 2. Navigate to the project directory:
    ```bash
