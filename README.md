@@ -70,10 +70,8 @@ A tool to help businesses and individuals estimate the cost of web development p
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-
 ### Updates:
 - **Languages** section added to highlight the languages used in the project, along with the percentage distribution.
 - The rest of the `README.md` remains the same.
 
 Let me know if you'd like any more changes!
-
